@@ -28,13 +28,11 @@ Clone o Repositório:
 Abra o terminal e clone o repositório do projeto:
 
 
-git clone https://github.com/leonar2101/mobile.git
-cd mobile/Mobile-a23f9ea40d5c1d631b7f2692ea0cc5449dcafd74
 Instale as Dependências:
 Acesse a pasta do projeto e instale todas as dependências Flutter listadas no pubspec.yaml.
-
-
 flutter pub get
+
+
 Execute o Aplicativo:
 Certifique-se de que um dispositivo ou emulador esteja conectado e execute o aplicativo.
 
